@@ -1,10 +1,19 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isotjs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isotjs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+# Hello 👋, I'm İsot!
+### Photographer | Technology Lover
 
-###
+## Contact Me
+<p><a href="https://taplink.cc/ismailtiryaki" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> </p>
 
-<br clear="both">
+## Skills
 
-<p align="center">I am not a developer.</p>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
+</p>
+
+## GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=isotjs&radius=16&theme=github&area=true&order=5" height="300" alt="activity-graph" />
+
