@@ -1,7 +1,6 @@
 # Hello 👋, I'm İsot!
 ### Photographer | Technology Lover
-
-## Contact Me
+<p>I am not a developer, but I love exploring new hobbies.</p>
 <p><a href="https://taplink.cc/ismailtiryaki" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> </p>
 
 ## Skills
@@ -13,7 +12,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
 </p>
 
-## GitHub Activity Graph
 
+##
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=isotjs&radius=16&theme=github&area=true&order=5" height="300" alt="activity-graph" />
-
