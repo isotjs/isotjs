@@ -1,5 +1,5 @@
 # Hello 👋, I'm İsot!
-### Photographer | Technology Lover
+### Photographer | Technology Lover | Teacher
 <p>I am not a developer, but I love exploring new hobbies.</p>
 <p><a href="https://isotjs.github.io/myportfolio/" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> </p>
 
