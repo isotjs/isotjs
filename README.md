@@ -33,7 +33,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=isotjs&radius=16&theme=github&area=true&order=5" width="100%" alt="activity-graph" />
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/isotjs/isotjs/output/snake.svg" alt="Snake animation" />
-</p>
