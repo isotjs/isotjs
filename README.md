@@ -7,6 +7,7 @@
 
 <p align="left">
   <a href="https://isotjs.github.io/myportfolio/" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=for-the-badge&logo=Firefox&logoColor=white" alt="Website"></a> 
+  <a href="https://isotjs.github.io/terminal-portfolio/" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=for-the-badge&logo=Brave&logoColor=white" alt="Website2"></a> 
 </p>
 
 ## 🛠️ My Tech Stack
