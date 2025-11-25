@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an Flutter App<br>🌱 I’m currently learning Russian<br>⚡ Fun fact: I am not CS student
+🔭 I’m currently working on an Kotlin Native App<br>🌱 I’m currently learning Russian<br>⚡ Fun fact: I am not CS student
 
 
 # 💻 Tech Stack:
