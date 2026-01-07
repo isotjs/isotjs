@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an Kotlin Native App<br>🌱 I’m currently learning Russian<br>⚡ Fun fact: I am not CS student
+🔭 I’m most probably working on an Kotlin Native App idk<br>🌱 I’m currently learning Russian<br>⚡ Fun fact: I am not CS student
 
 
 # 💻 Tech Stack:
@@ -15,8 +15,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/isotjs) 
+## 💰 You can help me by Donating
+*I forgot setting up the account* <br/><br/>
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/isotjs) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
