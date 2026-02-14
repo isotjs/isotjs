@@ -105,6 +105,6 @@
 </div>
 <br>
 <div align="center">
-<p>📫 <b>Get in touch:</b> <a href="mailto:ismailtiryakiofficial@gmail.com">ismailtiryakiofficial@gmail.com</a> | <a href="mailto:ismailtiryaki@tutamail.com">ismailtiryaki@tutamail.com</a></p>
+<p>📫 <b>Get in touch:</b> check my personal website for this</p>
 <p>Have a lovely day 😉</p>
 </div>
