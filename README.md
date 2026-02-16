@@ -18,7 +18,7 @@
 <p><i>"Bridging the gap between language education and technology with privacy-first architectures."</i></p>
 </div>
 
-<h3 align="left">👩‍💻 About Me</h3>
+<h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
 <b>Philosophy:</b> I don't just code; I fill real-world gaps. I'm not a "professional developer" by trade, but a dedicated hobbyist building tools that matter.
