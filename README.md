@@ -32,6 +32,8 @@
 
 <b>No More Reels!:</b> Browser extension to regain focus by hiding Instagram Reels. (JavaScript)
 
+<b>Todosian:</b> A minimalist, local-first Android Todo app seamlessly integrated with Obsidian (Tasks). (Kotlin)
+
 <b>WolfMind & Kovala:</b> Productivity and attendance suites for students. (Flutter, Room)
 <br>
 <br>
