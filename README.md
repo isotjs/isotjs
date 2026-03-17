@@ -23,7 +23,7 @@
 <p align="left">
 <b>Philosophy:</b> I don't just code; I fill real-world gaps. I'm not a "professional developer" by trade, but a dedicated hobbyist building tools that matter.
   <br>
-<b>Currently Learning:</b> GSAP, and Linguistics.
+<b>Currently Learning:</b> Linguistics.
 </p>
 <br>
 <h3 align="left">🚧 Featured Projects</h3>
