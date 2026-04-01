@@ -110,3 +110,6 @@
 <p>📫 <b>Get in touch:</b> check my personal website for this</p>
 <p>Have a lovely day 😉</p>
 </div>
+
+![](https://komarev.com/ghpvc/?username=isotjs)
+
