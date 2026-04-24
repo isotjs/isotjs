@@ -2,14 +2,6 @@
 <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjl0N3RncmtwdDk1Y3Brd25rdmg2dXo0bzV4eWd1NG40eXE2cXM3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif"  />
 </div>
 
-<div align="center">
-<a href="https://www.linkedin.com/in/ismail-tiryaki/" target="_blank">
-<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</a>
-<a href="https://gitlab.com/isotjs" target="_blank">
-<img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gitlab logo"  />
-</a>
-</div>
 
 <h1 align="center">Hi there 👋 I'm İsmail</h1>
 
