@@ -10,7 +10,7 @@
 <p><i>"Bridging the gap between language education and technology with privacy-first architectures."</i></p>
 </div>
 
-<h3 align="left">👨‍💻 About Me</h3>
+<h3 align="left">About Me</h3>
 
 <p align="left">
 <b>Philosophy:</b> I don't just code; I fill real-world gaps. I'm not a "professional developer" by trade, but a dedicated hobbyist building tools that matter.
@@ -18,7 +18,7 @@
 <b>Currently Learning:</b> Linguistics.
 </p>
 <br>
-<h3 align="left">🚧 Featured Projects</h3>
+<h3 align="left">Featured Projects</h3>
 
 <b>Kalk Geldik:</b> Location-based wake-up alarm ensuring you never miss your stop. (Kotlin, MapLibre)
 
@@ -29,7 +29,7 @@
 <b>WolfMind & Kovala:</b> Productivity and attendance suites for students. (Flutter, Room)
 <br>
 <br>
-<h3 align="left">🛠 Language and Tools</h3>
+<h3 align="left">Language and Tools</h3>
 
 <div align="left">
 <div align="left">
@@ -91,7 +91,7 @@
 </div>
 <br>
 
-<h3 align="left">🔥 My Stats</h3>
+<h3 align="left">My Stats</h3>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=isotjs&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
@@ -99,7 +99,7 @@
 </div>
 <br>
 <div align="center">
-<p>📫 <b>Get in touch:</b> check my personal website for this</p>
+<p><b>Get in touch:</b> check my personal website for this</p>
 <p>Have a lovely day 😉</p>
 </div>
 
