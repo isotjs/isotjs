@@ -6,7 +6,7 @@
 <h1 align="center">Hi there 👋 I'm İsmail</h1>
 
 <div align="center">
-<h3>ELT Student | Developer</h3>
+<h3>Developer</h3>
 </div>
 
 <h3 align="left">About Me</h3>
@@ -16,17 +16,6 @@
   <br>
 <b>Currently Learning:</b> Linguistics.
 </p>
-<br>
-<h3 align="left">Featured Projects</h3>
-
-<b>Kalk Geldik:</b> Location-based wake-up alarm ensuring you never miss your stop. (Kotlin, MapLibre)
-
-<b>No More Reels!:</b> Browser extension to regain focus by hiding Instagram Reels. (JavaScript)
-
-<b>Todosian:</b> A minimalist, local-first Android Todo app seamlessly integrated with Obsidian (Tasks). (Kotlin)
-
-<b>Metrolist & Mako:</b> Contributing to FOSS projects.
-<br>
 <br>
 <h3 align="left">Language and Tools</h3>
 
