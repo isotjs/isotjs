@@ -6,7 +6,7 @@
 <h1 align="center">Hi there 👋 I'm İsmail</h1>
 
 <div align="center">
-<h3>Developer</h3>
+<h3>Open-Source Developer</h3>
 </div>
 
 <h3 align="left">About Me</h3>
