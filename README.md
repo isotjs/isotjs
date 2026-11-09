@@ -7,6 +7,11 @@
 
 <div align="center">
 <h3>Open-Source Developer</h3>
+<p>
+  Maintainer @ <a href="https://github.com/rama-io">rama-io</a> ·
+  Developer @ <a href="https://github.com/MetrolistGroup/">MetrolistGroup</a>
+</p>
+<p><a href="https://ismailtiryaki.dev/">www.ismailtiryaki.dev</a></p>
 </div>
 
 <h3 align="left">About Me</h3>
